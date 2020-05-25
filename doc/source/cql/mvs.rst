@@ -162,7 +162,7 @@ The options that can be updated are the same than at creation time and thus the 
 DROP MATERIALIZED VIEW
 ^^^^^^^^^^^^^^^^^^^^^^
 
-Dropping a materialized view users the ``DROP MATERIALIZED VIEW`` statement:
+Dropping a materialized view using the ``DROP MATERIALIZED VIEW`` statement:
 
 .. productionlist::
    drop_materialized_view_statement: DROP MATERIALIZED VIEW [ IF EXISTS ] `view_name`;
